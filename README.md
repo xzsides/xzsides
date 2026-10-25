@@ -1,34 +1,20 @@
-<div align="justify">
-<p align="left"><strong><samp><i>「</i></samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-      <b><font color="#ffffff">●</font> <font color="#555555">●</font> <font color="#ffffff">●</font> <font color="#555555">●</font> <font color="#ffffff">●</font> <font color="#555555">●</font> <font color="#ffffff">●</font> <font color="#555555">●</font></b>
-      <br><br>
-      <b>
-        ~ @xzsides ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp><i>」</i></samp></strong></p>
+# xzsides
 
-```
+> Building things with code
 
-⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣾⣿⡇⠀⠀⠀⠀⠀⢀⣼⡇
-⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⣴⣿⣿⠃
-⠀⠀⠀⠀⢠⣿⣿⣿⣇⠀⠀⢀⣾⣿⣿⣿⠀
-⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡟⠀
-⠀⠀⢰⡿⠉⠀⡜⣿⣿⣿⡿⠿⢿⣿⣿⠃⠀
-⠒⠒⠸⣿⣄⡘⣃⣿⣿⡟⢰⠃⠀⢹⣿⡇⠀
-⠚⠉⠀⠈⠻⣿⣿⣿⣿⣿⣮⣤⣤⣿⡟⠁⠀
-⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠛⠛⠁⠀⠒⠤
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠀⠀ 
+### -- About Me
 
-magic in ~ 
-  |  echo "veni vidi vici  <3"
+- **Focus**: Writing code, breaking things, and learning how they work under the hood.
+- **Currently**: Exploring new tools and trying to improve my skills every day.
+- **Interests**: Open source, minimal and flamboyant design, and continuous learning.
 
-```
+### -- What I'm Doing
 
-</div>
+-  I’m currently working on **[vroomies](https://github.com/xzsides/vroomies)**.
+-  I’m currently learning **more about Linux, Python, and more about programming in general.**
+-  I’m always happy to talk about **custom dotfiles, or anything tech-related.**
 
+### 💻 Stack
+
+- **Languages**: JavaScript · Python · QML 
+- **Tools & Frameworks**: · Neovim · Git · Linux <3 
