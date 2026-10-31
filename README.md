@@ -1,4 +1,4 @@
-# xzsides
+# maxbytess
 
 > Building things with code
 
@@ -10,7 +10,7 @@
 
 ### -- What I'm Doing
 
--  I’m currently working on **[vroomies](https://github.com/xzsides/vroomies)**.
+-  I’m currently working on **[vroomies](https://github.com/maxbytess/vroomies)**.
 -  I’m currently learning **more about Linux, Python, and more about programming in general.**
 -  I’m always happy to talk about **custom dotfiles, or anything tech-related.**
 
